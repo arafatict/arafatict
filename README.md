@@ -1,5 +1,9 @@
 # Md Arafat Hossain
 
+<p align="center">
+  <img src="assets/profile-photo.jpg" alt="Professional portrait of Md Arafat Hossain" width="150" />
+</p>
+
 ## IT Support Specialist | Technical Support | System Support
 
 I am an IT Support Specialist with practical experience supporting end users, Windows workstations, software, user accounts, printers, email, Wi-Fi and network connectivity. I enjoy investigating technical problems, documenting solutions and helping people work effectively and securely.
